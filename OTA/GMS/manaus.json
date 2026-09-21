@@ -1,12 +1,12 @@
 {
     "response": [
         {
-            "datetime": 1789794215,
-            "filename": "axion-2.8-ONEIRA_FINAL-20260919-UNOFFICIAL-GMS-manaus.zip",
-            "id": "00c4252957b5647b95eb9ea4a844d2a8",
+            "datetime": 1789884526,
+            "filename": "axion-2.8-ONEIRA_FINAL-20260920-UNOFFICIAL-GMS-manaus.zip",
+            "id": "f37abee75b043319575ebd390252a73e",
             "romtype": "UNOFFICIAL",
-            "size": 2169852981,
-            "url": "https://sourceforge.net/projects/axion-manaus/files/axion-2.8-ONEIRA_FINAL-20260919-UNOFFICIAL-GMS-manaus.zip/download",
+            "size": 2172292432,
+            "url": "https://cdn.axionos.org/manaus/axion-2.8-ONEIRA_FINAL-20260920-UNOFFICIAL-GMS-manaus.zip",
             "version": "2.8"
         }
     ]
